@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Brandon (but my friends call me b-shack) and I'm currently a Software Engineer on the Web team at @VSCO 👨🏼‍💻. Outside of work, I love spending my time skiing in Tahoe :skier:, hiking/backpacking in Yosemite :national_park:, listening and tinkering with music :notes:, and playing Switch :video_game:. I grew up in Arkansas :heart: but currently live in California :sunny:.
+My name is Brandon (but my friends call me b-shack) and I’m currently a Software Engineer on the Web team at **[VSCO](https://vsco.co)** 👨🏼‍💻. Outside of work, I love spending my time skiing in Tahoe :skier:, hiking/backpacking in Yosemite :national_park:, listening and tinkering with music :notes:, and playing Switch :video_game:. I grew up in Arkansas :heart: but currently live in California :sunny:.
 
 ## Current Technology
 
