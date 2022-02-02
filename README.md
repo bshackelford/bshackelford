@@ -18,7 +18,3 @@ My name is Brandon and I’m currently a Software Engineer on the Systems team a
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=Redis)
 ![Git](https://img.shields.io/badge/-Git-F14E32?style=flat&logo=git&logoColor=white)
-
-## GitHub Stats
-
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bshackelford&count_private=true&show_icons=true&hide_title=true)
